@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navigation{
+    display: flex;
+}
+
+.link-elements{
+    display: flex;
+    justify-content: space-between;
+}
+
+#el{
+    display: flex-end;
+}
